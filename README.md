@@ -1,2 +1,6 @@
-# ekrntud
-opensource gis education
+# 오픈소스 gis교육
+##장소
+*남서울대학교
+##일시
+*2019-7-2
+
