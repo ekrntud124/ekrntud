@@ -1,2 +1,2 @@
 # ekrntud
-opensource gis
+opensource gis education
